@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@babel/runtime": "^7.21.0",
     "@fontsource/roboto": "^4.5.8",
     "@linaria/babel-preset": "^4.4.3",
     "@linaria/core": "^4.2.8",

@@ -6,12 +6,17 @@
 html, body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
+    background-color: #ECF3FC;
+}
+
+input:focus, input:active,
+button:focus, button:active {
+    outline: none;
 }
 
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
 }
 
