@@ -20,7 +20,8 @@ const containerStyles = css`
   && {
     height: 100vh;
     width: 1280px;
-    padding: 5px;
+    padding: 3px;
+    background-color: #fff;
   }
 `;
 
@@ -29,7 +30,7 @@ const borderStyles = css`
 `;
 
 const boxStyles = css`
-  width: 100%;
+  padding: 16px 24px;
   height: calc(100vh - 10px);
   background-color: #F3F9FE;
 `;
